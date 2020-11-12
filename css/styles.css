@@ -1,0 +1,21 @@
+body {
+	background-color: aliceblue;
+}
+
+h1 {
+	color: #325c5c;
+}
+
+h3 {
+	color: #66BFBF;
+}
+
+hr {
+	/* Alternative / short-hand: border-top: 8px dotted lightgray;
+    width: 10%; */
+	border-style: none;
+	border-top-style: dotted;
+	border-color: grey;
+	border-width: 8px;
+	width: 10%;
+}
